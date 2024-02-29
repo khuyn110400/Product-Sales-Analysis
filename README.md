@@ -2,6 +2,7 @@
 Dataset included 15000 obs of 8 variables
 
 ![image](https://github.com/khuyn110400/Product-Sales-Analysis/assets/110038431/42bc7e8f-f75b-4921-b1e8-aa0a7a4644b7)
+
 **WRITTEN REPORT** 
 
 You written report should include written text summaries and graphics of the following:
